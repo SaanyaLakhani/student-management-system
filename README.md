@@ -1,0 +1,2 @@
+# student-management-system
+A student management system using python and tkinter in front end and sqlite3 in the backend.It is used to store the data of the students and the data can also be updated and deleted whenever one wants to do so. One can also see the graph charts with respect to the marks and name of the students. And also a quote of the day and your location will be displayed on the home page.
